@@ -1,1 +1,2 @@
 Hi Feature1
+3.txt changed in master
