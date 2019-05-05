@@ -1,2 +1,6 @@
 this file is created in feature1 branch	
+
 user 1 changes 
+
+user 2
+
